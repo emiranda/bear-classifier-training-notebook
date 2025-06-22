@@ -23,7 +23,6 @@ The resulting `.pkl` file is used in production on Hugging Face Spaces:
 ## Requirements
 
 - Python 3.10+
-- fastai
 - torch
 - duckduckgo_search
 
